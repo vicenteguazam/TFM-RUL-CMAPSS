@@ -27,8 +27,7 @@ The methodology includes:
 ## Repository Structure
 
 - **`scripts/`**: R scripts used throughout the study.
-- **`resultados/tablas/`**: Tables and numerical results generated during the analysis.
-- **`resultados/figuras/`**: Figures and visualizations generated during the analysis.
+- **`resultados/`**: Tables, figures and visualizations generated during the analysis. 
 
 ## Scripts Description
 
